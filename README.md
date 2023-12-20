@@ -1,5 +1,3 @@
-NOTE: See "Cheon-BSGS.ipynb" for working code
-
 <h1>Project Overview</h1>
 
 A SageMath implementation based on Izu's et al. paper for Baby-step-Giant-step (BSGS) and Pollard's Kangaroo (Lambda) algorithm applied on a generalized ECDLP, namely, DLP with auxiliary inputs (DLPwAI). 
